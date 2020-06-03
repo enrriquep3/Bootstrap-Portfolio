@@ -1,0 +1,54 @@
+
+.nav-link{
+    color: firebrick;
+}
+body{
+    background-color:darkgrey;
+    color: firebrick;
+}
+#navbarNav{
+    background-color:darkgrey;
+    color: firebrick;
+}
+.navbar-brand{
+    background-color: darkgrey;
+    padding: 20px;
+    color: firebrick;
+}
+.navbar {
+    background-color: darkgrey;
+    color: darkseagreen;
+}
+
+
+.pictures{
+    height: 500px;
+    width: 900px;
+}
+
+#carouselExampleControls{
+    align-items: center;
+    margin-left: 333px;
+}
+
+.card,
+.card-header,
+.card-body,
+.card-title,
+.card-text{
+    align-content: center;
+    text-align: center;
+    background-color: rgb(57, 75, 57);
+    color: darkgray;
+}
+.footer{
+    text-align: center;
+    padding: 25px;
+    background-color:darkgray;
+    color: firebrick;
+
+}
+.jumbotron{
+    background-color: rgb(57, 75, 57);
+    color:darkgray;
+}
